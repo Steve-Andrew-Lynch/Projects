@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "One-click Kittens",
-  "description": "This extension demonstrates a 'browser action' with kittens.",
+  "name": "Send to Sheet v1",
+  "description": "This extension sends a URL to a Google Spreadsheet.",
   "version": "1.0",
 
   "browser_action": {
